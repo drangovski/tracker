@@ -79,9 +79,9 @@ WSGI_APPLICATION = 'tracker.wsgi.application'
 
 DEFAULT_FROM_EMAIL = 'Tracker App'
 EMAIL_HOST = 'smtp.mailtrap.io'
-EMAIL_HOST_USER = 'a820ae35d2ff10'
-EMAIL_HOST_PASSWORD = 'a23a75f9943b02'
-EMAIL_PORT = '2525'
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
+EMAIL_PORT = ''
 EMAIL_USE_TLS = True
 
 # Database
